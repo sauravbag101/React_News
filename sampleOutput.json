@@ -1,0 +1,309 @@
+{
+
+    "status": "ok",
+    "totalResults": 38,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lim Hui Jie",
+            "title": "Asia stock markets today: Live updates, Australia, China trade, oil prices - CNBC",
+            "description": "China's trade surplus is expected to increase to $58 billion, but exports are forecast to drop 1.1% year-on-year",
+            "url": "https://www.cnbc.com/2023/12/07/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316539-1697159674866-gettyimages-1720140335-fc_1113145.jpeg?v=1697167181&w=1920&h=1080",
+            "publishedAt": "2023-12-07T07:48:00Z",
+            "content": "For all its efforts this year, the Federal Reserve seems to have pulled off a successful soft landing, according to Omar Aguilar, CEO and chief investment officer of Schwab Asset Management.\r\n\"Where … [+834 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "MLB.com",
+            "title": "Juan Soto traded to Yankees from Padres - MLB.com",
+            "description": null,
+            "url": "https://www.mlb.com/news/juan-soto-yankees-trade",
+            "urlToImage": null,
+            "publishedAt": "2023-12-07T06:08:07Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Lowry",
+            "title": "Jimmy Kimmel pays emotional tribute to the ‘genius’ of Norman Lear - CNN",
+            "description": "An emotional Jimmy Kimmel paid tribute to the late producer Norman Lear at the top of his ABC show on Wednesday night, calling him “one of the most important and impressive people I’ve ever had the pleasure of meeting.”",
+            "url": "https://www.cnn.com/2023/12/06/entertainment/jimmy-kimmel-norman-lear-tribute/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231206194209-jimmy-kimmel-norman-lear.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-07T05:49:00Z",
+            "content": "An emotional Jimmy Kimmel paid tribute to the late producer Norman Lear at the top of his ABC show on Wednesday night, calling him one of the most important and impressive people Ive ever had the ple… [+2398 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joe Daniels, Michael Stott",
+            "title": "Venezuela raises stakes in dispute with Guyana over oil riches - Financial Times",
+            "description": "President Maduro claims mandate to incorporate Essequibo region but imminent war may be a ‘bluff’",
+            "url": "https://www.ft.com/content/d0d2b61f-4e29-4211-80ba-820e0e290abf",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F519bcfdc-539e-47d2-8b08-69dab9054908.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-12-07T05:00:04Z",
+            "content": "Venezuelas President Nicolás Maduro has dramatically raised the stakes in his countrys border dispute with Guyana, ordering state companies to exploit contested oil and mineral deposits and redrawing… [+5878 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, <a href=\"/profiles/tori-powell\">Tori B. Powell</a> and <a href=\"/profiles/amir-vera\">Amir Vera</a>, CNN",
+            "title": "At least 3 dead after shooting on UNLV campus, police say - CNN",
+            "description": "Three people were killed and one person is in critical condition after a shooting on the UNLV campus, the Las Vegas Metropolitan Police said Wednesday. The suspect was also killed, police said.",
+            "url": "https://www.cnn.com/us/live-news/unlv-shooting-12-06-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231206151108-03-las-vegas-shooting-1206-super-tease.jpg",
+            "publishedAt": "2023-12-07T04:46:00Z",
+            "content": "A student who was inside the building on the University of Nevada's Las Vegas campus where the shooting took place said no one was concerned at first when they heard a noise during class.\r\nBrett John… [+1084 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Alexandra Hutzler",
+            "title": "5 takeaways from the latest Republican presidential debate - ABC News",
+            "description": "Nikki Haley, rising in the polls, also received a notable amount of attacks.",
+            "url": "https://abcnews.go.com/Politics/5-takeaways-fourth-republican-debate/story?id=105444169",
+            "urlToImage": "https://i.abcnewsfe.com/a/46377aa3-38bd-4912-ba44-cf318aed2461/republicans-debate-elections-gty-lv-231206_1701911764800_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-12-07T04:31:50Z",
+            "content": "Four Republican presidential candidates took the stage in Alabama on Wednesday night for one last chance to trade attacks and stake out policy positions before voting starts in the 2024 primary, in I… [+6563 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "KFYR-TV"
+            },
+            "author": "KFYR-TV Staff",
+            "title": "UPDATE: Mercer County Sheriff’s Deputy dies during pursuit - KFYR",
+            "description": "The impact of the crash pushed the patrol vehicle into the deputy, killing him.",
+            "url": "https://www.kfyrtv.com/2023/12/07/mercer-county-sheriffs-deputy-dies-during-pursuit/",
+            "urlToImage": "https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/v2/YDYTQ6PQLJHBZBUEHDJ3VMHATI.png?auth=ff0da6f4085e48f4ed0f321cd6872d65fd7a0259bcc5649ceabf6ef8ebcc525f&width=1200&height=600&smart=true",
+            "publishedAt": "2023-12-07T04:16:00Z",
+            "content": "MERCER COUNTY, N.D. (KFYR) - UPDATE (11:15 p.m.): Sen. Kevin Cramer, R-ND, issued the following statement regarding the Mercer County Sheriffs Deputy killed in the line of duty on Wednesday.\r\nEarlier… [+2384 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Sara Whitman",
+            "title": "Taylor Swift rocks all black to support BFF Emma Stone at 'Poor Things' movie premiere - Page Six",
+            "description": "Time’s 2023 Person of the Year was accompanied by a business parter rather than her NFL star beau Travis Kelce.",
+            "url": "https://pagesix.com/2023/12/06/style/taylor-swift-rocks-all-black-to-support-bff-emma-stone-at-poor-things-movie-premiere/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/12/73376459.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-12-07T04:00:00Z",
+            "content": "It’s nice to have a friend like Taylor Swift.\r\nTime’s “Person of the Year” was back out in New York City Wednesday night to support her bestie Emma Stone at the New York City premiere of her new film… [+3032 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Final 4:56 WILD ENDING Nets vs Hawks 👀 | December 6, 2023 - NBA",
+            "description": "The Nets hang on and defeated the Hawks, 114-113. Mikal Bridges led the Nets with 32 points, 6 assists, and 5 rebounds, while Cameron Johnson added 17 points...",
+            "url": "https://www.youtube.com/watch?v=W2ypagtK_UA",
+            "urlToImage": "https://i.ytimg.com/vi/W2ypagtK_UA/maxresdefault.jpg",
+            "publishedAt": "2023-12-07T03:24:22Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Steve Gorman",
+            "title": "Sean 'Diddy' Combs accused in gang-rape of teenager in New York - Reuters",
+            "description": "Hip-hop star Sean \"Diddy\" Combs was accused in federal court on Wednesday of taking part in the gang rape of a 17-year-old girl in his Manhattan recording studio in 2003, marking the fourth lawsuit leveling sexual assault allegations against him in recent wee…",
+            "url": "https://www.reuters.com/world/us/sean-diddy-combs-accused-gang-rape-teenager-new-york-2023-12-07/",
+            "urlToImage": "https://www.reuters.com/resizer/R4yxLWPKjhkAHddTN5iShWZxUf8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HZNR3RT5XFIMVM2PCVLL4FN76Q.jpg",
+            "publishedAt": "2023-12-07T03:07:37Z",
+            "content": "Dec 6 (Reuters) - Hip-hop star Sean \"Diddy\" Combs was accused in federal court on Wednesday of taking part in the gang rape of a 17-year-old girl in his Manhattan recording studio in 2003, marking th… [+3713 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Former President Alberto Fujimori released from Peru prison after 16 years - Al Jazeera English",
+            "description": "Divisive former president who ruled from 1990-2000 and is now 85 freed from jail on humanitarian grounds.",
+            "url": "https://www.aljazeera.com/news/2023/12/7/former-president-alberto-fujimori-released-from-peru-prison-after-16-years",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/347838E-highres-1701913370.jpg?resize=1200%2C675",
+            "publishedAt": "2023-12-07T02:53:10Z",
+            "content": "Former Peruvian President Alberto Fujimori, who was serving a 25-year prison term for human rights abuses during his decade-long rule in the 1990s, has been freed after the countrys highest court res… [+2770 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Michelle Nichols",
+            "title": "UN chief rings alarm bell on global security threat from Gaza war - Reuters",
+            "description": "United Nations Secretary-General Antonio Guterres made a rare move on Wednesday to formally warn the Security Council of a global threat from the <a href=\"/world/middle-east/southern-gaza-israel-mounts-fiercest-attacks-so-far-war-against-hamas-2023-12-06/\">Ga…",
+            "url": "https://www.reuters.com/world/middle-east/un-chief-rings-alarm-bell-global-security-threat-gaza-war-2023-12-06/",
+            "urlToImage": "https://www.reuters.com/resizer/5MiNb2rIUqjf0tQh_IlkQktiMDU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R73XSDW6INK2JP22S33MVDK3FY.jpg",
+            "publishedAt": "2023-12-07T02:37:00Z",
+            "content": "UNITED NATIONS, Dec 6 (Reuters) - United Nations Secretary-General Antonio Guterres made a rare move on Wednesday to formally warn the Security Council of a global threat from the Gaza war as Arab st… [+4205 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Allan Smith",
+            "title": "Vivek Ramaswamy, Chris Christie come to blows in one of the most contentious debate battles yet - NBC News",
+            "description": "Chris Christie and Vivek Ramaswamy went after each other during the fourth Republican presidential debates in one of the most heated fights yet.",
+            "url": "https://www.nbcnews.com/politics/2024-election/chris-christie-vivek-ramaswamy-come-blows-obnoxious-blowhard-fascist-rcna128459",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231206-chris-christie-vivek-ramaswamy-seamless-2-up-split-ac-907p-89a800.jpg",
+            "publishedAt": "2023-12-07T02:33:00Z",
+            "content": "Former New Jersey Gov. Chris Christie and businessman Vivek Ramaswamy went after each other Wednesday in one of the most contentious fights yet at one of the Republican presidential primary debates.\r… [+3646 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Quinnen Williams & C.J. Mosely on Zach Wilson returning as Jets QB 1 & preview game vs Texans| SNY - SNY",
+            "description": "Quinnen Williams and C.J. Mosely react to Zach Wilson returning as Jets QB 1 and preview Sunday's game vs Texans.Watch More: https://on.sny.tv/izZbK6LSubscri...",
+            "url": "https://www.youtube.com/watch?v=gKjwbl4602U",
+            "urlToImage": "https://i.ytimg.com/vi/gKjwbl4602U/maxresdefault.jpg",
+            "publishedAt": "2023-12-07T01:30:10Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Patricia Zengerle",
+            "title": "US Senate Republican block Ukraine, Israel aid bill over border dispute - Reuters",
+            "description": "An emergency spending bill to provide billions of dollars in new security assistance for Ukraine and Israel was blocked in the U.S. Senate on Wednesday as Republicans pressed their demands for tougher measures to control immigration at the U.S. border with Me…",
+            "url": "https://www.reuters.com/world/us/us-senate-sets-test-vote-ukraine-aid-despite-republican-opposition-2023-12-06/",
+            "urlToImage": "https://www.reuters.com/resizer/nw2iTTe0wkSWQ6cHW_I31YK2I9Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JM7L6GQ255MJDJZPYFA2GRCRJU.jpg",
+            "publishedAt": "2023-12-07T00:35:00Z",
+            "content": "WASHINGTON, Dec 6 (Reuters) - An emergency spending bill to provide billions of dollars in new security assistance for Ukraine and Israel was blocked in the U.S. Senate on Wednesday as Republicans pr… [+4274 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Marianne LeVine, Isaac Arnsdorf, Josh Dawsey",
+            "title": "Trump 'dictator' comment reignites criticism his camp has tried to curb - The Washington Post",
+            "description": "In recent days, Trump and his allies have been pushing back more forcefully on comments that a second term would be more extreme and autocratic than his first.",
+            "url": "https://www.washingtonpost.com/elections/2023/12/06/trump-comments-dictator-campaign-president-2024/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SQZT2PNXT5MDCQJAB4XI3UQ5PE_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-12-06T23:46:38Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nDonald Trumps campaign asked allies on Capitol Hill in recent days to publicly counter criticism that the former president would gover… [+8582 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Patriots-Steelers over-under is 30, lowest total in the NFL in decades - NBC Sports",
+            "description": "Are you excited about Bailey Zappe vs.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-steelers-over-under-is-30-lowest-total-in-the-nfl-in-decades",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fe7437e/2147483647/strip/true/crop/4369x2458+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F9e%2F9ee465574399b505b117cd89b872%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1833690227",
+            "publishedAt": "2023-12-06T23:02:20Z",
+            "content": "Are you excited about Bailey Zappe vs. Mitchell Trubisky in prime time? If you are, you might be a degenerate gambler looking forward to the lowest over-under seen in an NFL game in decades.\r\nThis we… [+763 chars]"
+        }
+    ]
+
+}
